@@ -5,4 +5,4 @@ To run the notebooks in this repository you will need a copy of the [MetaSUB Dat
 
 Please ask questions or report concerns using github's issue feature.
 
-
+More information on MetaSUB Bioinformatics may be found [here](https://github.com/MetaSUB/bioinformatics_management)
