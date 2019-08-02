@@ -1,0 +1,78 @@
+ORF	start	stop	strand	annotation
+ORF39	6849	8921 	+	hypothetical protein [Bacillus thuringiensis]
+ORF18	2033	3688 	+	DNA polymerase [Arthrobacter phage Mendel]
+ORF20	4469	5956 	+	major capsid protein [Arthrobacter phage Mendel]
+ORF40	9840	11042 	+	No SmartBLAST hits found
+ORF10	8923	9840 	+	upper collar protein [Arthrobacter phage Anjali]
+ORF59	4349	5182	-	uncharacterized protein LOC113558754 isoform X1 [Rhopalosiphum maidis]
+ORF3	1276	2055 	+	No SmartBLAST hits found
+ORF38	6021	6779 	+	L,D-transpeptidase family protein [Salipaludibacillus aurantiacus]
+ORF58	5447	6001	-	No SmartBLAST hits found
+ORF61	3044	3562	-	No SmartBLAST hits found
+ORF12	10396	10875 	+	No SmartBLAST hits found
+ORF67	10051	10515	-	No SmartBLAST hits found
+ORF75	1300	1746	-	No SmartBLAST hits found
+ORF16	779	1213 	+	No SmartBLAST hits found
+ORF4	4087	4506 	+	No SmartBLAST hits found
+ORF55	7430	7762	-	No SmartBLAST hits found
+ORF45	7794	8123	-	Gfo/Idh/MocA family oxidoreductase [Streptomyces tsukubensis]
+ORF7	7003	7317 	+	Equilibrative nucleoside transporter 3 [Trichoplax sp. H2]
+ORF34	4155	4466 	+	No SmartBLAST hits found
+ORF77	730	1035	-	No SmartBLAST hits found
+ORF13	11005	11301 	+	hypothetical protein I206_05411 [Kwoniella pini CBS 10737]
+ORF64	32	322	-	No SmartBLAST hits found
+ORF50	1554	1835	-	No SmartBLAST hits found
+ORF66	10525	10806	-	No SmartBLAST hits found
+ORF53	10646	10921	-	No SmartBLAST hits found
+ORF23	8960	9229 	+	No SmartBLAST hits found
+ORF17	1520	1777 	+	No SmartBLAST hits found
+ORF21	6098	6340 	+	hypothetical protein LOTGIDRAFT_175040 [Lottia gigantea]
+ORF62	2810	3037	-	hypothetical protein [Simonsiella muelleri]
+ORF19	3716	3937 	+	No SmartBLAST hits found
+ORF47	3804	4016	-	No SmartBLAST hits found
+ORF54	8231	8431	-	hypothetical protein F915_00754, partial [Acinetobacter baumannii NIPH 70]
+ORF27	11054	11254 	+	No SmartBLAST hits found
+ORF46	6948	7142	-	No SmartBLAST hits found
+ORF41	9783	9977	-	cupin domain-containing protein [Rhodobacteraceae bacterium HTCC2083]
+ORF28	237	428 	+	DEAD/DEAH box helicase [Kocuria rhizophila]
+ORF65	10957	11142	-	hypothetical protein D046_8731 [Vibrio parahaemolyticus V-223/04]
+ORF72	3532	3717	-	No SmartBLAST hits found
+ORF71	4576	4752	-	No SmartBLAST hits found
+ORF73	2515	2688	-	No SmartBLAST hits found
+ORF56	6677	6850	-	No SmartBLAST hits found
+ORF35	4506	4679 	+	No SmartBLAST hits found
+ORF1	409	573 	+	hypothetical protein SAMN06295909_0102 [Plantibacter sp. VKM Ac-1784]
+ORF60	4061	4219	-	No SmartBLAST hits found
+ORF69	6631	6786	-	No SmartBLAST hits found
+ORF76	1060	1206	-	hypothetical protein HMPREF1544_09988 [Mucor circinelloides f. circinelloides 1006PhL]
+ORF37	5172	5312 	+	hypothetical protein [Bacillus anthracis]
+ORF43	9459	9599	-	mammalian cell entry protein, partial [Mycobacterium sp. ITM-2017-0098]
+ORF14	140	271 	+	pyridoxal-phosphate dependent enzyme, partial [Klebsiella pneumoniae]
+ORF52	450	578	-	Uncharacterised protein [Escherichia coli]
+ORF22	7268	7393 	+	hypothetical protein DEO72_LG1g3282 [Vigna unguiculata]
+ORF57	6086	6205	-	hypothetical protein SLNWT_3123 [Streptomyces albus]
+ORF30	2175	2291 	+	No SmartBLAST hits found
+ORF63	1886	2002	-	PREDICTED: calmodulin-regulated spectrin-associated protein 1 [Dipodomys ordii]
+ORF2	577	684 	+	hypothetical protein A2559_04220 [Deltaproteobacteria bacterium RIFOXYD2_FULL_66_9]
+ORF31	2418	2525 	+	No SmartBLAST hits found
+ORF42	9627	9734	-	glycine cleavage system transcriptional activator [Halomonas elongata]
+ORF29	2055	2156 	+	radical SAM protein [Anaerocolumna aminovalerica]
+ORF49	2136	2234	-	acyltransferase-like protein At3g26840, chloroplastic [Citrus clementina]
+ORF8	7930	8028 	+	No SmartBLAST hits found
+ORF15	482	580 	+	Allophanate hydrolase [Cronobacter dublinensis 582]
+ORF33	3243	3338 	+	No SmartBLAST hits found
+ORF6	6883	6978 	+	Chain A, Pulmonary surfactant-associated protein B
+ORF9	8482	8574 	+	DUF3606 domain-containing protein [Pelobacter carbinolicus]
+ORF74	1942	2034	-	actin, partial [Aspergillus calidoustus]
+ORF5	5962	6051 	+	5'/3'-nucleotidase SurE, partial [Xanthomonadales bacterium CG_4_9_14_3_um_filter_62_6]
+ORF44	8883	8972	-	hypothetical protein, partial [Mesorhizobium sp. M4B.F.Ca.ET.049.02.1.2]
+ORF11	10000	10089 	+	hypothetical protein [Cellulosimicrobium cellulans]
+ORF25	9620	9709 	+	hypothetical protein QWA_17885, partial [Alcaligenes faecalis subsp. faecalis NCIB 8687]
+ORF68	7174	7260	-	copper-containing nitrite reductase, partial [uncultured bacterium]
+ORF24	9287	9373 	+	protease HtpX [Bacillus patagoniensis]
+ORF32	2799	2882 	+	Hypothetical protein CAP_7927 [Chondromyces apiculatus DSM 436]
+ORF70	5713	5796	-	zinc finger A20 and AN1 domain-containing stress-associated protein 6 [Momordica charantia]
+ORF26	9710	9793 	+	No SmartBLAST hits found
+ORF36	4791	4871 	+	No SmartBLAST hits found
+ORF51	1200	1277	-	HPr family phosphocarrier protein [Alphaproteobacteria bacterium]
+ORF48	2712	2789	-	chlorohydrolase [Streptococcus pneumoniae]

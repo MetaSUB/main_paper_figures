@@ -1,0 +1,5 @@
+strand	family	description	type	clan	estart	estop	astart	astop	from	to	length	bitscore	evalue
++	Phage_connector	Phage Connector (GP10)	Family	n/a	8959	9792	8980	9783	8	279	281	179.2	1.1E-52
++	Phi29_Phage_SSB	Phage Single-stranded DNA-binding protein	Family	n/a	839	1210	854	1207	7	122	123	64.9	7.4E-18
++	DNA_pol_B_2	DNA polymerase type B, organellar and viral	Family	CL0194	2459	3439	2462	3406	126	455	469	160.6	6.1E-47
++	PG_binding_1	Putative peptidoglycan binding domain	Domain	CL0244	6564	6755	6564	6755	1	57	57	49.8	2.9E-13
